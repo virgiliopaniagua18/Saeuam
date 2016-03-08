@@ -9,8 +9,9 @@
 - [V.Usuarios](#Usuarios).
 - [VI.Enlace de Repositorio](#Enlace-de-Repositorio).
 - [VII.Roles de los miembros](#Roles-de-los-miembros).
-- [VIII.Anotaciones](#Anotaciones).
-- [IX.Referencias externas](#Referencias-externas).
+- [VIII.Entregables](#Entregables).
+- [IX.Anotaciones](#Anotaciones).
+- [X.Referencias externas](#Referencias-externas).
   
 ### <a name="Descripcion"></a>Descripcion
 
@@ -109,6 +110,10 @@ D.	`Rigoberto López:` rigobertoloopez / 13010649/ https://github.com/rigobertol
 
 Mini Biografía: Estudiante de la carrera de Ingeniería en gerencia Informática, Actual mente me encanta trabajar en equipo para de desarrollar ideas con el propósito de adquirir nuevo conocimientos soy amble comprensivo y analítico y honesto en la información .Actual en el uso de Visual Basic, Java, SQL Server, MySql. Windows server
 Rol en el proyecto: Programar, investigar .desarrollar y escribir
+
+### <a name="Entregables"></a>Entregables
+
+Rigoberto 
 
 ### <a name="Anotaciones"></a>Anotaciones
 
