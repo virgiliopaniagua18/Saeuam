@@ -2,17 +2,17 @@
 #                                     SAE (Sistema Administrador Educativo)  
                                     
 ## Menu
-- [I. Descripcion](#I.Descripción).
-- [II. Resumen Ejecutivo](#II.Resumen-Ejecutivo).
-- [III. Descripción de detalles Técnicos](#III.Descripción-de-detalles-Técnicos).
-- [IV.Clientes](#IV.Clientes).
-- [V.Usuarios](#V.Usuarios).
-- [VI.Enlace de Repositorio](#VI.Enlace-de-Repositorio).
-- [VII.Roles de los miembros](#VII.Roles-de-los-miembros).
-- [VIII.Anotaciones](#VIII.Anotaciones).
-- [IX.Referencias externas](#IX.Referencias-externas).
+- [Descripcion](#Descripcion).
+- [Resumen Ejecutivo](#Resumen-Ejecutivo).
+- [Descripcion de detalles Tecnicos](#Descripcion-de-detalles-Tecnicos).
+- [Clientes](#Clientes).
+- [Usuarios](#Usuarios).
+- [Enlace de Repositorio](#Enlace-de-Repositorio).
+- [Roles de los miembros](#Roles-de-los-miembros).
+- [Anotaciones](#Anotaciones).
+- [Referencias externas](#Referencias-externas).
   
-### I.Descripción
+### Descripcion
 
 Es un programa de administración, control y manejo de clases, horarios, personal y finanzas (pagos y recargos) de una institución académica. El programa tendrá la capacidad de tener niveles de privilegios de usuario. Se podrá acceder a la aplicación por computador y web o por dispositivo móvil (aplicación o web App).
 El Sistema `SAE` busca ser creado con la utilizacion o implementacion de codigo javascript, python, perl y ruby, para optimizacion de funciones, como lenguaje base de la aplicacion Php, y Cakephp como framework.
