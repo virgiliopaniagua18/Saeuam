@@ -26,7 +26,7 @@ El software contara con:
 * Manejo y registro de Clases y horarios
 * Manejo y control de finanzas
  
-### Resumen Ejecutivo
+### <a name="Resumen-Ejecutivo"></a>Resumen Ejecutivo
 
 El programa `SAE` es un sistema de administración para diversas tareas que  se necesitan mantener controladas y supervisas en los sectores educativos, escuelas, colegios particulares y técnicos, institutos educativos, entre otros. Con SAE se logra mantener un control y manejo de clases, horarios, personal y finanzas (pagos y recargos) de una institución académica. Permitiendo así salvar lo más preciado para toda persona como es el tiempo y la información, en el caso de los centros educativos, mantener un control más detallado de su comunidad estudiantil y las finanzas y roles que conlleva.
 
