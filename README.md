@@ -2,15 +2,15 @@
 #                                     SAE (Sistema Administrador Educativo)  
 
 ## Menu
-- [I. Descripcion](#Descripcion).
-- [II. Resumen Ejecutivo](#Resumen-Ejecutivo).
-- [III. Descripcion de detalles Tecnicos](#Descripcion-de-detalles-Tecnicos).
-- [IV. Clientes](#Clientes).
-- [V. Usuarios](#Usuarios).
-- [VI. Enlace de Repositorio](#Enlace-de-Repositorio).
-- [VII. Roles de los miembros](#Roles-de-los-miembros).
-- [VIII. Anotaciones](#Anotaciones).
-- [IX. Referencias externas](#Referencias-externas).
+- [I. Descripcion](#Descripcion)
+- [II. Resumen Ejecutivo](#Resumen-Ejecutivo)
+- [III. Descripcion de detalles Tecnicos](#Descripcion-de-detalles-Tecnicos)
+- [IV. Clientes](#Clientes)
+- [V. Usuarios](#Usuarios)
+- [VI. Enlace de Repositorio](#Enlace-de-Repositorio)
+- [VII. Roles de los miembros](#Roles-de-los-miembros)
+- [VIII. Anotaciones](#Anotaciones)
+- [IX. Referencias externas](#Referencias-externas)
   
 ### Descripcion
 
