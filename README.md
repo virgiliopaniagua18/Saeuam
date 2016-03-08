@@ -12,7 +12,7 @@
 - [VIII.Anotaciones](#VIII.Anotaciones).
 - [IX.Referencias externas](#IX.Referencias-externas).
   
-## I.Descripcion
+### I.Descripcion
 
 Es un programa de administración, control y manejo de clases, horarios, personal y finanzas (pagos y recargos) de una institución académica. El programa tendrá la capacidad de tener niveles de privilegios de usuario. Se podrá acceder a la aplicación por computador y web o por dispositivo móvil (aplicación o web App).
 El Sistema `SAE` busca ser creado con la utilizacion o implementacion de codigo javascript, python, perl y ruby, para optimizacion de funciones, como lenguaje base de la aplicacion Php, y Cakephp como framework.
@@ -26,7 +26,7 @@ El software contara con:
 * Manejo y registro de Clases y horarios
 * Manejo y control de finanzas
  
-## II.Resumen Ejecutivo
+### II.Resumen Ejecutivo
 
 El programa `SAE` es un sistema de administración para diversas tareas que  se necesitan mantener controladas y supervisas en los sectores educativos, escuelas, colegios particulares y técnicos, institutos educativos, entre otros. Con SAE se logra mantener un control y manejo de clases, horarios, personal y finanzas (pagos y recargos) de una institución académica. Permitiendo así salvar lo más preciado para toda persona como es el tiempo y la información, en el caso de los centros educativos, mantener un control más detallado de su comunidad estudiantil y las finanzas y roles que conlleva.
 
@@ -54,7 +54,7 @@ Se presentarán 4 versiones:
 
 - `Business Premium:` El software cuenta con todas las opciones del Sistema en sí, Con respaldo incorporado y acceso desde Web.
 
-## III.Descripción de detalles Técnicos
+### III.Descripcion de detalles Tecnicos
 
 ##A. 	`Requerimientos Local:` 
 
