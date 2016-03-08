@@ -2,9 +2,9 @@
 #                                     SAE (Sistema Administrador Educativo)  
                                     
 ## Menu
-- [I. Descripcion](#I.Descripción).
-- [II. Resumen Ejecutivo](#II.Resumen-Ejecutivo).
-- [III. Descripción de detalles Técnicos](#III.Descripción-de-detalles-Técnicos).
+- [I.Descripción](#I.Descripción).
+- [II.Resumen Ejecutivo](#II.Resumen-Ejecutivo).
+- [III.Descripción de detalles Técnicos](#III.Descripción-de-detalles-Técnicos).
 - [IV.Clientes](#IV.Clientes).
 - [V.Usuarios](#V.Usuarios).
 - [VI.Enlace de Repositorio](#VI.Enlace-de-Repositorio).
