@@ -113,7 +113,16 @@ Rol en el proyecto: Programar, investigar .desarrollar y escribir
 
 ### <a name="Entregables"></a>Entregables
 
-LINK
+1- Presentacion digital de los avances del sistema SAE.
+2- Manual de usuario del sistema SAE.
+3- Pagina web online 
+4- Usuario y clave de acceso para realizar pruebas.
+5- Un CD ejecutable.
+6- SAE con gestor de base de datos MYSQL.
+7- SAE con gestor de base de datos POSTGRESQL.
+8- Repositorio en linea.
+9- Un Installer del sistemas SAE.
+
 
 ### <a name="Anotaciones"></a>Anotaciones
 
