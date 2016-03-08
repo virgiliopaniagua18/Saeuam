@@ -72,15 +72,15 @@ Se presentarán 4 versiones:
 - Navegador Web compatible como php5 (Google Chrome, Mozilla Firefox)
 - Servidor: Apache
 
-### <a name="Cliente"></a>Cliente
+### <a name="Clientes"></a>Clientes
 
 Los posibles clientes serian escuelas, secundarias, universidades y colegios técnicos.
 
-### <a name="Usuario"></a>Usuarios
+### <a name="Usuarios"></a>Usuarios
 
 Los usuarios finales serian: profesores, padres, alumnos, directores y administradores de estos centros educativos.
 
-### <a name="Encale-de-Repositorio"></a>Enlace de Repositorio
+### <a name="Enlace-de-Repositorio"></a>Enlace de Repositorio
 
 - `Repositorio:` https://github.com/Thealexander/Saeuam
 - `Sitio Web:` http://scadministrator.netai.net/
