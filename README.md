@@ -54,7 +54,7 @@ Se presentarán 4 versiones:
 
 - `Business Premium:` El software cuenta con todas las opciones del Sistema en sí, Con respaldo incorporado y acceso desde Web.
 
-### <a name="Descripcion-de-detalles-Tecnico"></a>Descripcion de detalles Tecnicos
+### <a name="Descripcion-de-detalles-Tecnicos"></a>Descripcion de detalles Tecnicos
 
 ##A. 	`Requerimientos Local:` 
 
