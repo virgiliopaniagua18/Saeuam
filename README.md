@@ -113,7 +113,7 @@ Rol en el proyecto: Programar, investigar .desarrollar y escribir
 
 ### <a name="Entregables"></a>Entregables
 
-Rigoberto 
+Rigoberto se la come
 
 ### <a name="Anotaciones"></a>Anotaciones
 
