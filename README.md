@@ -123,7 +123,6 @@ Rol en el proyecto: Programar, investigar .desarrollar y escribir
 8- Repositorio en linea.
 9- Un Installer del sistemas SAE.
 
-
 ### <a name="Anotaciones"></a>Anotaciones
 
 El sistema será creado bajo la licencia `BSD modifica` o `Nueva Licencia BSD`, ya que esta elimina la cláusula de publicad que tenía la licencia BSD Antigua, esta consta de tres clausulas, en la numera 3, impide que un receptor del software pueda tener usar el nombre del autor sin el permiso de este y es muy similar a la licencia MIT (1).
